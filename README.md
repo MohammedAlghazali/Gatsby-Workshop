@@ -11,11 +11,11 @@
 
 - 10:30 - 11:00 <br>
   [Styling with Gatsby](https://hackmd.io/s/HyMSsw-gD#Step-3-Styling-with-Gatsby)
+  
+- 11:00 - 12:00 <br>
+  [Data in Gatsby](https://hackmd.io/s/HyMSsw-gD#Step-4-Data-in-Gatsby)
 
 — BREAK —
-
-- 13:30 - 14:30 <br>
-  [Data in Gatsby](https://hackmd.io/s/HyMSsw-gD#Step-4-Data-in-Gatsby)
 
 - 14:30 - 17:00 <br>
   [Programmatically create pages from data](https://hackmd.io/s/HyMSsw-gD#Step-5-Programmatically-create-pages-from-data)
